@@ -1,0 +1,2 @@
+# cloneexp
+Git clone example
